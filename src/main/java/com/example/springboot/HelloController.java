@@ -8,7 +8,7 @@ public class HelloController {
 
 	@GetMapping("/")
 	public String index() {
-		return "Greetings from Spring Boot! Hello Webhooks testing";
+		return "Greetings from Spring Boot! Docker";
 	}
 
 }
