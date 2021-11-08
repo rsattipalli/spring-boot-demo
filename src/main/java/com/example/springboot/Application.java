@@ -1,7 +1,6 @@
 package com.example.springboot;
 
 import java.io.InputStream;
-import java.net.http.HttpClient;
 import java.security.KeyStore;
 import java.util.Arrays;
 
